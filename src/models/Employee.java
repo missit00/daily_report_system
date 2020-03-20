@@ -123,7 +123,4 @@ public class Employee {
 		@Column(name = "delete_flag", nullable = false)
 	    private Integer delete_flag;
 
-
-
-
 }
